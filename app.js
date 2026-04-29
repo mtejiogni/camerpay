@@ -1,0 +1,1 @@
+console.log('Campay v0.1.0 - En cours de développement');
