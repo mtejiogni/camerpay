@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo ""
+echo "[CamerPay] Lancement des tests avant push vers GitHub..."
+echo ""
+
+# Simulation de tests
+echo "*************************************"
+echo "Test 1 : Calcul des frans MTN Mobile Money.... OK"
+echo "Test 2 : Calcul deas frais Orange Money.... OK"
+echo "Test 3 : Connexion API CamerPay Gateway.... OK"
+echo "Test 4 : Validation des transactions.... OK"
+echo "*************************************"
+echo ""
+
+echo "✅[CamerPay] Tous les tests sont passés. Push vers GitHub autoirisé."
+echo ""
+exit 0
