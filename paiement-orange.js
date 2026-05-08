@@ -1,3 +1,3 @@
 function payerOrange(montant) {
-    let test= "Je teste les commit-msg"
+    let test= "Je teste le depot local"
 }
